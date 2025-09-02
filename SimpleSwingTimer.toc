@@ -1,0 +1,8 @@
+## Title: SimpleSwingTimer
+## Interface: 30300
+## Notes: Simple swing timer bar for melee and ranged attacks
+## Author: Your Name
+## Version: 1.0
+## X-License: GPL v2
+
+SimpleSwingTimer.lua
